@@ -1,0 +1,9 @@
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\bin\Debug\TesteControleComposto.dll
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\bin\Debug\TesteControleComposto.pdb
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.csproj.AssemblyReference.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.ControlClock.resources
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.csproj.GenerateResource.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.dll
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.pdb
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteControleComposto\obj\Debug\TesteControleComposto.AlarmClock.resources

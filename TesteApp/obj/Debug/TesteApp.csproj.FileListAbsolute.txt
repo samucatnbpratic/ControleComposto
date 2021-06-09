@@ -1,0 +1,13 @@
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\bin\Debug\TesteApp.exe.config
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\bin\Debug\TesteApp.exe
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\bin\Debug\TesteApp.pdb
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\bin\Debug\TesteControleComposto.dll
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\bin\Debug\TesteControleComposto.pdb
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.csproj.AssemblyReference.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.Properties.Resources.resources
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.csproj.GenerateResource.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.csproj.CopyComplete
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.exe
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.pdb
+C:\Users\Samuel Moraes\source\repos\TesteControleComposto\TesteApp\obj\Debug\TesteApp.Form1.resources
